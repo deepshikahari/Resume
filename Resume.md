@@ -30,10 +30,10 @@
 - Email Distribution System &ndash; HubSpot
 
 ## Certifications
-**C PROGRAMMING CERTIFICATION**  
+- **C PROGRAMMING CERTIFICATION**  
 Kalvi Instituite, Madurai. 
 *Jan 2018 &ndash; Jun 2018*
-**JAVA PROGRAMMING CERTIFICATION**  
+- **JAVA PROGRAMMING CERTIFICATION**  
 NIIT, Madurai. 
 *Jan 2019 &ndash; Jun 2019* 
 
