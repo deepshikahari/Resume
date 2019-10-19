@@ -2,11 +2,7 @@
 [8667210320](tel:8667210320)
 
 # Deepshika Hari
-- 6+ years of experience as a software engineer in various industries
-- Full stack skill-set with a concentration on front-end engineering
-- Owns a small consulting company to channel mid-range freelance work
-- Mentors several apprentices and manages their online curriculum
-- Published several modules on GitHub, NPM, and Packagist
+    Software Engineering Aspirant who aims to being a part of an organisation and work with full knowledge and effort to enhance the company's growth and development.  
 
 ## Education
 **Velammal College Of Engineering And Technology**  
