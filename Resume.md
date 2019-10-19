@@ -1,5 +1,5 @@
 >[deepshikahari1998@gmail.com](mailto:deepshikahari1998@gmail.com) | 
-[8667210320](tel:8667210320)&#x1F613;
+[8667210320](tel:8667210320)
 
 <img src="DEEP.jpg" height="100" width="100"/>
 
