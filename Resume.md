@@ -1,6 +1,8 @@
 >[deepshikahari1998@gmail.com](mailto:deepshikahari1998@gmail.com) | 
 [8667210320](tel:8667210320)
 
+<img src="DEEP.jpg" height="100" width="100"/>
+
 # Deepshika Hari
 Software Engineering Aspirant who aims to being a part of an organisation and work with full knowledge and effort to enhance the company's growth and development.  
 
@@ -33,12 +35,12 @@ NIIT, Madurai.
 *Jan 2019 &ndash; Jun 2019* 
 
 ## In-Plant Trainings
-- **WEB DEVELOPMENT**  
-OneYes Technologies, Chennai. 
-*May 2017*
-- **ADVANCED WEB DEVELOPMENT**  
-CodeBind Technologies, Trichy. 
-*Dec 2018* 
+
+|Sl.No|Name Of the Institute|Course|Duration|
+|-----|---------------------|------|--------|
+|1|OneYes Technologies, Chennai|Web Development|6 months|
+|2|CodeBind Technologies, Trichy|Web Development|6 months|
+
 
 
 
