@@ -9,13 +9,14 @@ Software Engineering Aspirant who aims to being a part of an organisation and wo
  B.Tech in Information Technology  
 *CGPA 8.23*  
 *May 2020*  
-
-## Skills
-- Architectural Pattern &ndash; Model View Controller, Server Side Rendering, Finite State Machine
-- Methodology &ndash; Agile, Scrum, Cross-platform Development, Object-Oriented Programming, Composition, Rapid Application Development
-- Programming Language &ndash; JavaScript, TypeScript, CSS, LESS, SASS, HTML, PHP, C# 
-- UI &ndash; Mobile-first Design, Responsive Web Design 
-- UX &ndash; Information Architecture, Persona Classification
+**Mahatma Montessori Matriculation Higher Secondary School**  
+ HSC  
+*Percentage 88%*  
+*May 2016*  
+**Velammal Matriculation Higher Secondary School**  
+ SSLC
+*Percentage 96%*  
+*May 2014* 
 
 ## Tools
 - Front End Languages &ndash; HTML, CSS 
@@ -30,6 +31,15 @@ Kalvi Instituite, Madurai.
 - **JAVA PROGRAMMING CERTIFICATION**  
 NIIT, Madurai. 
 *Jan 2019 &ndash; Jun 2019* 
+
+## In&ndashPlant Trainings
+- **WEB DEVELOPMENT**  
+OneYes Technologies, Chennai. 
+*May 2017*
+- **ADVANCED WEB DEVELOPMENT**  
+CodeBind Technologies, Trichy. 
+*Dec 2018* 
+
 
 
 
