@@ -2,7 +2,7 @@
 [8667210320](tel:8667210320)
 
 # Deepshika Hari
-    Software Engineering Aspirant who aims to being a part of an organisation and work with full knowledge and effort to enhance the company's growth and development.  
+Software Engineering Aspirant who aims to being a part of an organisation and work with full knowledge and effort to enhance the company's growth and development.  
 
 ## Education
 **Velammal College Of Engineering And Technology**  
