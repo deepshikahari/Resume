@@ -4,7 +4,7 @@
 <img src="DEEP.jpg" height="100" width="100"/>
 
 # Deepshika Hari
-Software Engineering Aspirant who aims to being a part of an organisation and work with full knowledge and effort to enhance the company's growth and development.  
+<span style="color:green">Software Engineering Aspirant who aims to being a part of an organisation and work with full knowledge and effort to enhance the company's growth and development.</span>
 
 ## Education
 **Velammal College Of Engineering And Technology**  
