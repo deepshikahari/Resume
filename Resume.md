@@ -14,9 +14,9 @@ Software Engineering Aspirant who aims to being a part of an organisation and wo
 *Percentage 88%*  
 *May 2016*  
 **Velammal Matriculation Higher Secondary School**  
- SSLC
+ SSLC  
 *Percentage 96%*  
-*May 2014* 
+*May 2014*   
 
 ## Tools
 - Front End Languages &ndash; HTML, CSS 
