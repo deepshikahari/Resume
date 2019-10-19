@@ -5,7 +5,7 @@
 Software Engineering Aspirant who aims to being a part of an organisation and work with full knowledge and effort to enhance the company's growth and development.  
 
 ## Education
-###Velammal College Of Engineering And Technology  
+**Velammal College Of Engineering And Technology**  
  B.Tech in Information Technology  
 *CGPA 8.24*  
 *May 2020*  
