@@ -32,7 +32,7 @@ Kalvi Instituite, Madurai.
 NIIT, Madurai. 
 *Jan 2019 &ndash; Jun 2019* 
 
-## In&ndashPlant Trainings
+## In-Plant Trainings
 - **WEB DEVELOPMENT**  
 OneYes Technologies, Chennai. 
 *May 2017*
