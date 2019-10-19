@@ -18,12 +18,10 @@ Software Engineering Aspirant who aims to being a part of an organisation and wo
 - UX &ndash; Information Architecture, Persona Classification
 
 ## Tools
-- Framework &ndash; Angular, React, Redux, Node.js, Express, Handlebars, Styled Components, Bootstrap, Axios, Bluebird, jQuery, AJAX
-- Automation Software &ndash; Webpack, Gulp, Jenkins
-- Content Management System &ndash; SilverStripe, WordPress
-- Graphic Editor &ndash; Adobe Illustrator, Adobe Photoshop, Sketch
-- Prototyping &ndash; Balsamiq, InVision
-- Email Distribution System &ndash; HubSpot
+- Front End Languages &ndash; HTML, CSS 
+- Back End Languages &ndash; PHP, Servlet
+- Database Languages &ndash; MySQL
+- Programming Languages &ndash; C, C++, Java
 
 ## Certifications
 - **C PROGRAMMING CERTIFICATION**  
