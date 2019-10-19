@@ -1,10 +1,10 @@
 >[deepshikahari1998@gmail.com](mailto:deepshikahari1998@gmail.com) | 
-[8667210320](tel:8667210320)
+[8667210320](tel:8667210320)&#x1F613;
 
 <img src="DEEP.jpg" height="100" width="100"/>
 
 # Deepshika Hari
-<span style="color:green">Software Engineering Aspirant who aims to being a part of an organisation and work with full knowledge and effort to enhance the company's growth and development.</span>
+<span style="color:blue">Software Engineering Aspirant who aims to being a part of an organisation and work with full knowledge and effort to enhance the company's growth and development.</span>
 
 ## Education
 **Velammal College Of Engineering And Technology**  
