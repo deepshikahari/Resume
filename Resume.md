@@ -3,7 +3,7 @@
 
 <img src="DEEP.jpg" height="100" width="100"/>
 
-# Deepshika Hari
+# Deepshika Hari 
 <span style="color:blue">Software Engineering Aspirant who aims to being a part of an organisation and work with full knowledge and effort to enhance the company's growth and development.</span>
 
 |Education |
