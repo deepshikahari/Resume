@@ -35,8 +35,8 @@ _ **PRESCRIBE THE MEDICINES FOR THE GIVEN SYMPTOMS**
 ## Certifications
  
  |Sl.No|certification|Name Of the Institute|Duration|
- |-----|--------------|----------------------|------|--------|
- |1|    C PROGRAMMING| Kalvi Institute, Madurai|6 months|
+ |-----|-------------|---------------------|--------|
+ |1|C PROGRAMMING|Kalvi Institute, Madurai|6 months|
  |2|JAVA PROGRAMMING|NIIT, Madurai|6 months|
 
 
