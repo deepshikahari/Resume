@@ -1,7 +1,7 @@
 >[deepshikahari1998@gmail.com](mailto:deepshikahari1998@gmail.com) | 
 [8667210320](tel:8667210320)
 
-<img src="DEEP.jpg" height="100" width="100"/>
+<img src="deeps.jpg" height="100" width="100"/>
 
 # Deepshika Hari 
 Software Engineering Aspirant who aims to being a part of an organisation and work with full knowledge and effort to enhance the company's growth and development.</span>
