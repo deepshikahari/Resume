@@ -1,7 +1,7 @@
 >[deepshikahari1998@gmail.com](mailto:deepshikahari1998@gmail.com) | 
 [8667210320](tel:8667210320)
 
-<img src="deeps.jpg" height="100" width="100"/>
+<img src="deeps.jpg" height="100" width="100" align="right"/>
 
 # DEEPSHIKA HARI
 Software Engineering Aspirant who aims to being a part of an organisation and work with full knowledge and effort to enhance the company's growth and development.</span>
@@ -32,7 +32,7 @@ Software Engineering Aspirant who aims to being a part of an organisation and wo
 - Back End &ndash; PHP
 - Git: <https://github.com/deepshikahari/ExpertSystem>
 
-  **<ins>E-TICKETING SYSTEM</ins>**
+**<ins>E-TICKETING SYSTEM</ins>**
 - Front End &ndash; HTML,CSS
 - Back End &ndash; Servlets
 - Git: <https://github.com/deepshikahari/E-TicketingSystem>
