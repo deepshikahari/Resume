@@ -8,7 +8,7 @@ Software Engineering Aspirant who aims to being a part of an organisation and wo
 
 ## ACADEMIC PATH
 **Velammal College Of Engineering And Technology**  
- B.Tech in Information Technology  
+ <ins>B.Tech in Information Technology </ins> 
 *CGPA 8.24*  
 *May 2020*  
 **Mahatma Montessori Matriculation Higher Secondary School**  
@@ -27,7 +27,7 @@ Software Engineering Aspirant who aims to being a part of an organisation and wo
 - Programming Languages &ndash; C, C++, Java
 
 ## MINI PROJECTS
-  **PRESCRIBE THE MEDICINES FOR THE GIVEN SYMPTOMS**
+  **<ins>PRESCRIBE THE MEDICINES FOR THE GIVEN SYMPTOMS</ins>**
 - Front End &ndash; HTML, CSS
 - Back End &ndash; PHP
 - Git: <https://github.com/deepshikahari/ExpertSystem>
