@@ -6,7 +6,7 @@
 # Deepshika Hari 
 Software Engineering Aspirant who aims to being a part of an organisation and work with full knowledge and effort to enhance the company's growth and development.</span>
 
-## Education 
+## Academic Path
 **Velammal College Of Engineering And Technology**  
  B.Tech in Information Technology  
 *CGPA 8.24*  
@@ -30,22 +30,21 @@ Software Engineering Aspirant who aims to being a part of an organisation and wo
 _ **PRESCRIBE THE MEDICINES FOR THE GIVEN SYMPTOMS**
 - Front End &ndash; HTML, CSS
 - Back End &ndash; PHP
-- Git:<https://github.com/deepshikahari/ExpertSystem>
-  
+- Git: <https://github.com/deepshikahari/ExpertSystem>
+_ **E-TICKETING SYSTEM**
+- Front End &ndash; HTML,CSS
+- Back End &ndash; Servlets
+- Git: <https://github.com/deepshikahari/E-TicketingSystem>
+
+## Area Of Intrest
+- WEB PROGRAMMING
+
 ## Certifications
  
  |Sl.No|certification|Name Of the Institute|Duration|
  |-----|-------------|---------------------|--------|
  |1|C PROGRAMMING|Kalvi Institute, Madurai|6 months|
  |2|JAVA PROGRAMMING|NIIT, Madurai|6 months|
-
-
-- **C PROGRAMMING CERTIFICATION**  
-Kalvi Instituite, Madurai. 
-*Jan 2018 &ndash; Jun 2018*
-- **JAVA PROGRAMMING CERTIFICATION**  
-NIIT, Madurai. 
-*Jan 2019 &ndash; Jun 2019* 
 
 ## In-Plant Trainings
 
