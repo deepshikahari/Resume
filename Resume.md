@@ -3,10 +3,10 @@
 
 <img src="deeps.jpg" height="100" width="100"/>
 
-# Deepshika Hari 
+# DEEPSHIKA HARI
 Software Engineering Aspirant who aims to being a part of an organisation and work with full knowledge and effort to enhance the company's growth and development.</span>
 
-## Academic Path
+## ACADEMIC PATH
 **Velammal College Of Engineering And Technology**  
  B.Tech in Information Technology  
 *CGPA 8.24*  
@@ -20,39 +20,39 @@ Software Engineering Aspirant who aims to being a part of an organisation and wo
 *Percentage 96%*  
 *May 2014*   
 
-## Tools
+## TOOLS
 - Front End Languages &ndash; HTML, CSS 
 - Back End Languages &ndash; PHP, Servlet
 - Database Languages &ndash; MySQL
 - Programming Languages &ndash; C, C++, Java
 
-## Mini projects
-_ **PRESCRIBE THE MEDICINES FOR THE GIVEN SYMPTOMS**
+## MINI PROJECTS
+  **PRESCRIBE THE MEDICINES FOR THE GIVEN SYMPTOMS**
 - Front End &ndash; HTML, CSS
 - Back End &ndash; PHP
 - Git: <https://github.com/deepshikahari/ExpertSystem>
 
-_ **E-TICKETING SYSTEM**
+  **E-TICKETING SYSTEM**
 - Front End &ndash; HTML,CSS
 - Back End &ndash; Servlets
 - Git: <https://github.com/deepshikahari/E-TicketingSystem>
 
-## Area Of Intrest
+## AREA OF INTEREST
 - WEB PROGRAMMING
 
-## Certifications
+## CERTIFICATIONS
  
  |Sl.No|certification|Name Of the Institute|Duration|
  |-----|-------------|---------------------|--------|
  |1|C PROGRAMMING|Kalvi Institute, Madurai|6 months|
  |2|JAVA PROGRAMMING|NIIT, Madurai|6 months|
 
-## In-Plant Trainings
+## IN-PLANT TRAININGS
 
-|Sl.No|Name Of the Institute|Course|Duration|
-|-----|---------------------|------|--------|
-|1|OneYes Technologies, Chennai|Web Development|6 months|
-|2|CodeBind Technologies, Trichy|Web Development|6 months|
+ |Sl.No|Name Of the Institute|Course|Duration|
+ |-----|---------------------|------|--------|
+ |1|OneYes Technologies, Chennai|Web Development|6 months|
+ |2|CodeBind Technologies, Trichy|Web Development|6 months|
 
 
 
