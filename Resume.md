@@ -33,6 +33,13 @@ _ **PRESCRIBE THE MEDICINES FOR THE GIVEN SYMPTOMS**
 - Git:<https://github.com/deepshikahari/ExpertSystem>
   
 ## Certifications
+ 
+ |Sl.No|certification|Name Of the Institute|Duration|
+ |-----|--------------|----------------------|------|--------|
+ |1|    C PROGRAMMING| Kalvi Institute, Madurai|6 months|
+ |2|JAVA PROGRAMMING|NIIT, Madurai|6 months|
+
+
 - **C PROGRAMMING CERTIFICATION**  
 Kalvi Instituite, Madurai. 
 *Jan 2018 &ndash; Jun 2018*
