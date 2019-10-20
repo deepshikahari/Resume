@@ -4,10 +4,9 @@
 <img src="DEEP.jpg" height="100" width="100"/>
 
 # Deepshika Hari 
-<span style="color:blue">Software Engineering Aspirant who aims to being a part of an organisation and work with full knowledge and effort to enhance the company's growth and development.</span>
+Software Engineering Aspirant who aims to being a part of an organisation and work with full knowledge and effort to enhance the company's growth and development.</span>
 
-|Education |
-|------------|
+## Education 
 **Velammal College Of Engineering And Technology**  
  B.Tech in Information Technology  
 *CGPA 8.24*  
@@ -27,6 +26,12 @@
 - Database Languages &ndash; MySQL
 - Programming Languages &ndash; C, C++, Java
 
+## Mini projects
+_ **PRESCRIBE THE MEDICINES FOR THE GIVEN SYMPTOMS**
+- Front End &ndash; HTML, CSS
+- Back End &ndash; PHP
+- Git:<https://github.com/deepshikahari/ExpertSystem>
+  
 ## Certifications
 - **C PROGRAMMING CERTIFICATION**  
 Kalvi Instituite, Madurai. 
