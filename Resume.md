@@ -8,9 +8,8 @@ Software Engineering Aspirant who aims to being a part of an organisation and wo
 
 ## ACADEMIC PATH
 **Velammal College Of Engineering And Technology**  
-B.Tech in Information Technology
-
-*CGPA 8.24*  
+B.Tech in Information Technology  
+*cgpa 8.24%*  
 *May 2020*  
 **Mahatma Montessori Matriculation Higher Secondary School**  
  HSC  
