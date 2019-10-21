@@ -53,6 +53,17 @@ B.Tech in Information Technology
  |-----|---------------------|------|--------|
  |1|OneYes Technologies, Chennai|Web Development|6 months|
  |2|CodeBind Technologies, Trichy|Web Development|6 months|
+ 
+ ## EXTRA CURRICULAR ACCOMPLISHMENTS
+ -State Level Ball Badminton player
+ 
+ ## ACADEMIC ACCOMPLISHMENTS
+ - Presented a paper on “Flow Battery” at the Technical Symposium conducted by the Department of Physics at Velammal College Of Engineering And Technology
+ - Participated in several state level symposiums and contests.
+
+## HACKER RANK PROFILE
+-<https://www.hackerrank.com/deepshikahari191>
+
 
 
 
