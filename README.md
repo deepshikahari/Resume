@@ -5,7 +5,8 @@
 
 # DEEPSHIKA HARI
 ```diff
-+ Software Engineering Aspirant who aims to being a part of an organisation and work with full knowledge and effort to enhance the company's growth and development.
++ Software Engineering Aspirant who aims to being a part of an organisation and work with 
+full knowledge and effort to enhance the company's growth and development.
 ```
 
 ## ACADEMIC PATH
