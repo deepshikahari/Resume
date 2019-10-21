@@ -1,2 +1,7 @@
-# Resume
-This Repository holds different formats of my resume
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
