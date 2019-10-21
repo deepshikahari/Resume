@@ -36,38 +36,35 @@ B.Tech in Information Technology
 - Back End &ndash; Servlets
 - Git: <https://github.com/deepshikahari/E-TicketingSystem>
 
-## AREA OF INTEREST
-```diff
-! WEB PROGRAMMING
-```
+## AREA OF INTEREST :books:
+-  WEB PROGRAMMING
 
-## CERTIFICATIONS
+## CERTIFICATIONS :clipboard:
  
  |Sl.No|certification|Name Of the Institute|Duration|
  |-----|-------------|---------------------|--------|
  |1|C PROGRAMMING|Kalvi Institute, Madurai|6 months|
  |2|JAVA PROGRAMMING|NIIT, Madurai|6 months|
 
-## IN-PLANT TRAININGS
+## IN-PLANT TRAININGS :desktop_computer:
 
  |Sl.No|Name Of the Institute|Course|Duration|
  |-----|---------------------|------|--------|
  |1|OneYes Technologies, Chennai|Web Development|6 months|
  |2|CodeBind Technologies, Trichy|Web Development|6 months|
  
- ## EXTRA CURRICULAR ACCOMPLISHMENTS
- ```diff
- + State Level Ball Badminton player
- ```
+ ## EXTRA CURRICULAR ACCOMPLISHMENTS 
+ - State Level Ball Badminton player :badminton:
  
- ## ACADEMIC ACCOMPLISHMENTS
+ 
+ ## ACADEMIC ACCOMPLISHMENTS :trophy:
  ```diff
  - Presented a paper on “Flow Battery” at the Technical Symposium conducted by the Department of Physics at Velammal College Of Engineering And Technology
  - Participated in several state level symposiums and contests.
  ```
 
-## HACKER RANK PROFILE
--<https://www.hackerrank.com/deepshikahari191>
+## HACKER RANK PROFILE 
+-<https://www.hackerrank.com/deepshikahari191> :computer:
 
 
 
