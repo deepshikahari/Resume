@@ -4,7 +4,9 @@
 <img src="deeps.jpg" height="200" width="142" align="right"/>
 
 # DEEPSHIKA HARI
-Software Engineering Aspirant who aims to being a part of an organisation and work with full knowledge and effort to enhance the company's growth and development.
+```diff
++ Software Engineering Aspirant who aims to being a part of an organisation and work with full knowledge and effort to enhance the company's growth and development.
+```
 
 ## ACADEMIC PATH
 **Velammal College Of Engineering And Technology**  
