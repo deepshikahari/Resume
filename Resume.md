@@ -56,13 +56,11 @@ B.Tech in Information Technology
  ## EXTRA CURRICULAR ACCOMPLISHMENTS 
  - State Level Ball Badminton player :badminton:
  
- 
- ## ACADEMIC ACCOMPLISHMENTS :trophy:
+  ## ACADEMIC ACCOMPLISHMENTS :trophy:
  ```diff
  - Presented a paper on “Flow Battery” at the Technical Symposium conducted by the Department of Physics at Velammal College Of Engineering And Technology
  - Participated in several state level symposiums and contests.
  ```
-
 ## HACKER RANK PROFILE 
 - <https://www.hackerrank.com/deepshikahari191> :computer:
 
