@@ -36,6 +36,9 @@ B.Tech in Information Technology
 - Back End &ndash; Servlets
 - Git: <https://github.com/deepshikahari/E-TicketingSystem>
 
+**<ins>CGPA CALCULATING SYSTEM</ins>** :iphone:
+- Git: <https://github.com/deepshikahari/CGPACalculator>
+
 ## AREA OF INTEREST :books:
 -  WEB PROGRAMMING
 
