@@ -44,7 +44,7 @@ B.Tech in Information Technology
 
 ## CERTIFICATIONS :clipboard:
  
- |Sl.No|certification|Name Of the Institute|Duration|
+ |Sl.No|Certification|Name Of the Institute|Duration|
  |-----|-------------|---------------------|--------|
  |1|C PROGRAMMING|Kalvi Institute, Madurai|6 months|
  |2|JAVA PROGRAMMING|NIIT, Madurai|6 months|
@@ -56,12 +56,12 @@ B.Tech in Information Technology
  |1|OneYes Technologies, Chennai|Web Development|6 months|
  |2|CodeBind Technologies, Trichy|Web Development|6 months|
  
- ## EXTRA CURRICULAR ACCOMPLISHMENTS 
- - State Level Ball Badminton player :badminton:
+ ## EXTRA CURRICULAR ACCOMPLISHMENTS :badminton:
+ - State Level Ball Badminton player 
  
   ## ACADEMIC ACCOMPLISHMENTS :trophy:
  ```diff
- - Presented a paper on “Flow Battery” at the Technical Symposium conducted by the Department of Physics at Velammal College Of Engineering And Technology
+ - Presented a paper on “FLOW BATTERY” at the Technical Symposium conducted by the Department of Physics at Velammal College Of Engineering And Technology
  - Participated in several state level symposiums and contests.
  ```
 ## HACKER RANK PROFILE 
