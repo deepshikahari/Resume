@@ -8,7 +8,7 @@ full knowledge and effort to enhance the company's growth and development.
 ## ACADEMIC PATH :woman_student:
 **Velammal College Of Engineering And Technology**  
 B.Tech in Information Technology  
-*cgpa 8.24%*  
+*cgpa 8.24/10*  
 *May 2020*  
 **Mahatma Montessori Matriculation Higher Secondary School**  
  HSC  
